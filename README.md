@@ -8,7 +8,7 @@ SignIn;
 }ifelse{
 SignUp
 }
-DisliayHomePage;
+DisplayHomePage;
 if staff{
 EnterAuthientication
 DisplayStaffDashboard;(
