@@ -1,2 +1,26 @@
 # Pseudocode-for-Ayesha-Beauty-Creation
-The Pseudocode Application
+Start
+FunctionName()
+AyeshaBeautyCreation{
+}
+if(Already have an account?){
+SignIn;
+}ifelse{
+SignUp
+}
+DisliayHomePage;
+if staff{
+EnterAuthientication
+DisplayStaffDashboard;(
+Finance;
+HumanResources;
+CustomerRelationManagametDatabase)
+}ifelse{
+Customer
+DislpayCustomerDashboard;(
+CustomerOrders;
+Sales;
+Promotion;
+Queries;
+ProductAndServices)}
+END
